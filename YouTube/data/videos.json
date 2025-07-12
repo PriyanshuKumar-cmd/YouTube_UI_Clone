@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Learn HTML in 10 Minutes",
+    "channel": "Code Academy",
+    "thumbnail": "assets/thumbnails/html.png",
+    "duration": "10:32"
+  },
+  {
+    "title": "CSS Flexbox Tutorial",
+    "channel": "CSS Mastery",
+    "thumbnail": "assets/thumbnails/flexbox.png",
+    "duration": "12:45"
+  },
+  {
+    "title": "JavaScript DOM Explained",
+    "channel": "JS Guru",
+    "thumbnail": "assets/thumbnails/dom.png",
+    "duration": "09:18"
+  },
+  {
+    "title": "Build a Portfolio Website",
+    "channel": "Dev Simplified",
+    "thumbnail": "assets/thumbnails/portfolio.png",
+    "duration": "14:05"
+  }
+]
